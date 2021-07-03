@@ -1,0 +1,39 @@
+{
+    "musiques": [
+        {
+            "title": "For You",
+            "file": "musics/for_you.mp3",
+            "artist": "NightCove _theFox"
+        },
+        {
+            "title": "Balistic",
+            "file": "musics/balistic.mp3",
+            "artist": "RetroSpecter"
+        },
+        {
+            "title": "I Can't fix you",
+            "file": "musics/I Can't Fix You.mp3",
+            "artist": "CG5"
+        },
+        {
+            "title": "I Got No Time",
+            "file":"musics/I Got No Time.mp3",
+            "artist": "CG5"
+        },
+        {
+            "title":"It's been so long",
+            "file": "musics/It's Been So Long.mp3",
+            "artist": "CG5"
+        },
+        {
+            "title": "Let Me Through",
+            "file": "musics/Let Me Through.mp3",
+            "artist": "CG5"
+        },
+        {
+            "artist": "Dawko",
+            "title": "Darkest Desire",
+            "file": "musics/Darkest Desire.mp3"
+        }
+    ]
+}
